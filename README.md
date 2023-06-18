@@ -97,7 +97,7 @@ The name "COREAA" reflects the core focus and purpose of the project, which is t
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running follow these simple example steps.
+To get a local copy up and running follow these simple steps.
 
 ### Installation
 
@@ -128,7 +128,7 @@ To get a local copy up and running follow these simple example steps.
 ## Roadmap
 
 - [x] Update the `README.md` to a more informative one.
-- [ ] Stablish the main page design and color theme.
+- [ ] Stablish the main page design and color palette.
 
 See the [open issues](https://github.com/javiermendez-coder/COREAA/issues) for a full list of proposed features (and known issues).
 
